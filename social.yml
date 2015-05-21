@@ -11,9 +11,9 @@ spring:
       app-secret: test
   datasource:
     driverClassName: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/mansonSocial
-    username: mansonSocial
-    password: mansonSocial
+    url: jdbc:postgresql://localhost:5432/masonSocial
+    username: masonSocial
+    password: masonSocial
   jpa:
     database: POSTGRESQL
     show-sql: false
