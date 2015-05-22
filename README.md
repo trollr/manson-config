@@ -1,1 +1,1 @@
-# manson Configs
+# mason Configs
