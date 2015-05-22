@@ -6,7 +6,7 @@ spring:
     facebook:
       app-id: test
       app-secret: test
-    dreamr:
+    mason:
       app-id: test
       app-secret: test
   datasource:
